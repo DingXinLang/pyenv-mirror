@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Introduction
 
 Help building a pyenv local mirror!
@@ -95,7 +94,3 @@ Therefore, a safer way to install Pythons for local Pyenv would be like:
 2. cd `xxx_dir`
 3. `pyenv install 2.7.13`
 4. rm the index file, 2.7.13
-=======
-# pyenv-mirror
-快速搭建python 工程
->>>>>>> 4f6d087314cf2a9118e4a362309f2a82e310799c
